@@ -1,0 +1,4 @@
+[session]
+adaptive_thinking = true
+preserve_prefix_hash = true
+default_effort = "high"

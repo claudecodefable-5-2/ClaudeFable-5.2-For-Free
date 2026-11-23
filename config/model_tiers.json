@@ -1,0 +1,10 @@
+{
+  "model": "claude-fable-5-2",
+  "context_window": 1000000,
+  "max_output_tokens": 128000,
+  "pricing_per_mtok": {
+    "standard": {"input": 8.0, "output": 40.0, "cache_read": 0.2},
+    "batch": {"input": 4.0, "output": 20.0},
+    "fast_2_5x": {"input": 16.0, "output": 80.0}
+  }
+}
